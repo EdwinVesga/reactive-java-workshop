@@ -1,2 +1,2 @@
 # reactive-java-workshop
-Repo for reactive programming practice in java
+Project for reactive programming practice in java
